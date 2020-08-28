@@ -1,10 +1,10 @@
 #########################################################################
-#
-# Things I would like for this iteration to have before official launch.
-# Items will be added to this list as the idea is generated
-# Items will be checked off as projects are finished
-# Every Little Win Always Counts!
-#
+/
+/ Things I would like for this iteration to have before official launch.
+/ Items will be added to this list as the idea is generated
+/ Items will be checked off as projects are finished
+/ Every Little Win Always Counts!
+/
 ##########################################################################
 
 ( ) Main Front Page With Reasons and Testimonials 
@@ -54,7 +54,7 @@
     ( ) Info pop-up defining wellness 
   ( ) profile pagination 10, 20, 50
 
-# Optional
+## Optional
 
 ( ) Dark Mode
 ( ) Report user
